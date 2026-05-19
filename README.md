@@ -63,6 +63,7 @@ ROS 2 Humble · Python · OpenCV · TurtleBot4
 
 ## Repo Layout
 
+```
 src/tb4_arrow_follower/
 ├── tb4_arrow_follower/
 │   ├── __init__.py
@@ -71,6 +72,7 @@ src/tb4_arrow_follower/
 ├── setup.cfg
 ├── setup.py
 └── README.md
+```
 
 ## Build
 
